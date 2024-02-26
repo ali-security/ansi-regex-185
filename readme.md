@@ -7,6 +7,7 @@
 
 ```
 $ npm install ansi-regex
+
 ```
 
 
